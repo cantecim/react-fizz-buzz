@@ -4,6 +4,12 @@
 # dependencies
 node_modules
 
+# coverage
+coverage
+
+# git archives
+*.zip
+
 # builds
 build
 dist
